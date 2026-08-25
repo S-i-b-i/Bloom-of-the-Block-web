@@ -1,0 +1,6 @@
+{
+  "name": "Bloom of the Block — Day 2",
+  "description": "An expressive, design-led editorial florist experience brought to life with high-impact scroll motion, kinetic typography, dynamic background color fields, and interactive floristry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
